@@ -1,24 +1,9 @@
 ## Hi there 👋
 
-I'm June Leoman Lapera, a Front-End Developer specializing in building responsive web applications using modern frameworks. I focus on optimizing user experiences and delivering high-quality solutions.
+I'm **June Leoman Lapera**, a Front-End Developer specializing in building responsive web applications using modern frameworks. I focus on optimizing user experiences and delivering high-quality solutions.
 
-- 🔭 I’m currently working on projects at Simple Media.
+- 🔭 I’m currently working on projects at **Simple Media**.
 - 🌱 I’m currently learning NextJS, React, React Native, and Supabase.
 - ⚡ Fun fact: The first website ever created by Tim Berners-Lee in 1991 is still online! You can visit it at <a href="http://info.cern.ch" target="_blank">http://info.cern.ch</a>.
 
 ![Leoman's GitHub stats](https://github-readme-stats-vert-psi-35.vercel.app/api?username=leomanlapera&show_icons=true)
-
-<!--
-**leomanlapera/leomanlapera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
