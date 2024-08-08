@@ -6,8 +6,7 @@ I'm June Leoman Lapera, a Front-End Developer specializing in building responsiv
 - 🌱 I’m currently learning NextJS, React, React Native, and Supabase.
 - ⚡ Fun fact: The first website ever created by Tim Berners-Lee in 1991 is still online! You can visit it at <a href="http://info.cern.ch" target="_blank">http://info.cern.ch</a>.
 
-![Leoman's GitHub stats](https://github-readme-stats-vert-psi-35.vercel.app/api?username=leomanlapera&show_icons=true&theme=dark)
-![Leoman's Top langs](https://github-readme-stats-vert-psi-35.vercel.app/api/top-langs?username=leomanlapera&theme=dark)
+![Leoman's GitHub stats](https://github-readme-stats-vert-psi-35.vercel.app/api?username=leomanlapera&show_icons=true)
 
 <!--
 **leomanlapera/leomanlapera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
