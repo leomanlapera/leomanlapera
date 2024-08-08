@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Leoman's GitHub stats](https://github-readme-stats-vert-psi-35.vercel.app/api?username=leomanlapera&show_icons=true&theme=dark)
+
+![Leoman's Top langs](https://github-readme-stats-vert-psi-35.vercel.app/api/top-langs?username=leomanlapera&theme=dark)
+
 <!--
 **leomanlapera/leomanlapera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
